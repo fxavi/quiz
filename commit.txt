@@ -1,0 +1,11 @@
+commit b6d827962cd2c16ab1347983f2bbff3b626cef48
+Author: fxavi <ccfjavier@gmail.com>
+Date:   Tue Jan 19 11:13:54 2016 -0400
+
+    Cambio en la licencia
+
+commit 9902b119effb24c75e62d5230ec43aa996e68fec
+Author: fxavi <ccfjavier@gmail.com>
+Date:   Tue Jan 19 11:10:35 2016 -0400
+
+    Proyecto inicial
